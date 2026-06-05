@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Samm24TT/testimonials-grid)
-- Live Site URL: [Add live site URL here](https://testimonials-grid-beta-nine.vercel.app/)
+- Solution URL: [https://github.com/Samm24TT/testimonials-grid]
+- Live Site URL: [https://testimonials-grid-beta-nine.vercel.app/]
 
 ## My process
 
@@ -68,7 +68,7 @@ I use Gemini for asking, not copy/paste I use it mostly for css and query
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Samm24TT)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Samm24TT]
 
 ## Acknowledgments
 
